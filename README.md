@@ -39,6 +39,7 @@ plt.show()
 ```
 ## Output
 </br>
+
 ![Screenshot 2023-05-29 142026](https://github.com/Yamunaasri/Univariate-Linear-Regression/assets/115707860/7053ec73-1ae9-4bd3-ba2d-ae3eadbe8919)
 
 </br>
